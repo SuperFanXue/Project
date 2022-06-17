@@ -1,0 +1,16 @@
+C:\Users\Dell\Desktop\Socket\SocketCommunication\SocketCommunication\bin\Debug\net5.0\SocketCommunication.exe
+C:\Users\Dell\Desktop\Socket\SocketCommunication\SocketCommunication\bin\Debug\net5.0\SocketCommunication.deps.json
+C:\Users\Dell\Desktop\Socket\SocketCommunication\SocketCommunication\bin\Debug\net5.0\SocketCommunication.runtimeconfig.json
+C:\Users\Dell\Desktop\Socket\SocketCommunication\SocketCommunication\bin\Debug\net5.0\SocketCommunication.runtimeconfig.dev.json
+C:\Users\Dell\Desktop\Socket\SocketCommunication\SocketCommunication\bin\Debug\net5.0\SocketCommunication.dll
+C:\Users\Dell\Desktop\Socket\SocketCommunication\SocketCommunication\bin\Debug\net5.0\ref\SocketCommunication.dll
+C:\Users\Dell\Desktop\Socket\SocketCommunication\SocketCommunication\bin\Debug\net5.0\SocketCommunication.pdb
+C:\Users\Dell\Desktop\Socket\SocketCommunication\SocketCommunication\obj\Debug\net5.0\SocketCommunication.csprojAssemblyReference.cache
+C:\Users\Dell\Desktop\Socket\SocketCommunication\SocketCommunication\obj\Debug\net5.0\SocketCommunication.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\Desktop\Socket\SocketCommunication\SocketCommunication\obj\Debug\net5.0\SocketCommunication.AssemblyInfoInputs.cache
+C:\Users\Dell\Desktop\Socket\SocketCommunication\SocketCommunication\obj\Debug\net5.0\SocketCommunication.AssemblyInfo.cs
+C:\Users\Dell\Desktop\Socket\SocketCommunication\SocketCommunication\obj\Debug\net5.0\SocketCommunication.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Desktop\Socket\SocketCommunication\SocketCommunication\obj\Debug\net5.0\SocketCommunication.dll
+C:\Users\Dell\Desktop\Socket\SocketCommunication\SocketCommunication\obj\Debug\net5.0\ref\SocketCommunication.dll
+C:\Users\Dell\Desktop\Socket\SocketCommunication\SocketCommunication\obj\Debug\net5.0\SocketCommunication.pdb
+C:\Users\Dell\Desktop\Socket\SocketCommunication\SocketCommunication\obj\Debug\net5.0\SocketCommunication.genruntimeconfig.cache
