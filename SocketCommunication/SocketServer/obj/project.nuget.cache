@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "+WLyM/WdoUhBbYkHPTNvs88tRo80ym42SQEueAAcoPRBStG+sxBAwjxmE68mM9GdLxqTOE31zxEqpPn6pVuKdQ==",
+  "dgSpecHash": "BsCTkD8xBYUwID0xOgzF+naqUTSzOGLt4STcbvuzYCrHRqNL0TZDwXbQZzaDQvwzsuwEjDUB8bCejxqdidrlag==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Dell\\Desktop\\Socket\\SocketCommunication\\SocketCommunication\\SocketServer.csproj",
+  "projectFilePath": "C:\\Users\\Dell\\Desktop\\git hub\\SocketCommunication\\SocketServer\\SocketServer.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

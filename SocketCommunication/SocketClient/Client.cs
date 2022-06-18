@@ -33,7 +33,7 @@ namespace SocketClient
         {
             while(true)
             {
-                Console.WriteLine("请收入信息：");
+                Console.WriteLine("请输入信息：");
                 string str = Console.ReadLine();
                 Byte[] byteArray = Encoding.UTF8.GetBytes(str);
 

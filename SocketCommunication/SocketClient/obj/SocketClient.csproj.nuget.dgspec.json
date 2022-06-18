@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Dell\\Desktop\\Socket\\SocketCommunication\\SocketClient\\SocketClient.csproj": {}
+    "C:\\Users\\Dell\\Desktop\\git hub\\SocketCommunication\\SocketClient\\SocketClient.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Dell\\Desktop\\Socket\\SocketCommunication\\SocketClient\\SocketClient.csproj": {
+    "C:\\Users\\Dell\\Desktop\\git hub\\SocketCommunication\\SocketClient\\SocketClient.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Dell\\Desktop\\Socket\\SocketCommunication\\SocketClient\\SocketClient.csproj",
+        "projectUniqueName": "C:\\Users\\Dell\\Desktop\\git hub\\SocketCommunication\\SocketClient\\SocketClient.csproj",
         "projectName": "SocketClient",
-        "projectPath": "C:\\Users\\Dell\\Desktop\\Socket\\SocketCommunication\\SocketClient\\SocketClient.csproj",
+        "projectPath": "C:\\Users\\Dell\\Desktop\\git hub\\SocketCommunication\\SocketClient\\SocketClient.csproj",
         "packagesPath": "C:\\Users\\Dell\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Dell\\Desktop\\Socket\\SocketCommunication\\SocketClient\\obj\\",
+        "outputPath": "C:\\Users\\Dell\\Desktop\\git hub\\SocketCommunication\\SocketClient\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Dell\\AppData\\Roaming\\NuGet\\NuGet.Config",

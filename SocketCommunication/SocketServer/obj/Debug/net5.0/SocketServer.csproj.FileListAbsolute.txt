@@ -14,3 +14,19 @@ C:\Users\Dell\Desktop\Socket\SocketCommunication\SocketCommunication\obj\Debug\n
 C:\Users\Dell\Desktop\Socket\SocketCommunication\SocketCommunication\obj\Debug\net5.0\ref\SocketServer.dll
 C:\Users\Dell\Desktop\Socket\SocketCommunication\SocketCommunication\obj\Debug\net5.0\SocketServer.pdb
 C:\Users\Dell\Desktop\Socket\SocketCommunication\SocketCommunication\obj\Debug\net5.0\SocketServer.genruntimeconfig.cache
+C:\Users\Dell\Desktop\git hub\SocketCommunication\SocketServer\bin\Debug\net5.0\SocketServer.exe
+C:\Users\Dell\Desktop\git hub\SocketCommunication\SocketServer\bin\Debug\net5.0\SocketServer.deps.json
+C:\Users\Dell\Desktop\git hub\SocketCommunication\SocketServer\bin\Debug\net5.0\SocketServer.runtimeconfig.json
+C:\Users\Dell\Desktop\git hub\SocketCommunication\SocketServer\bin\Debug\net5.0\SocketServer.runtimeconfig.dev.json
+C:\Users\Dell\Desktop\git hub\SocketCommunication\SocketServer\bin\Debug\net5.0\SocketServer.dll
+C:\Users\Dell\Desktop\git hub\SocketCommunication\SocketServer\bin\Debug\net5.0\ref\SocketServer.dll
+C:\Users\Dell\Desktop\git hub\SocketCommunication\SocketServer\bin\Debug\net5.0\SocketServer.pdb
+C:\Users\Dell\Desktop\git hub\SocketCommunication\SocketServer\obj\Debug\net5.0\SocketServer.csprojAssemblyReference.cache
+C:\Users\Dell\Desktop\git hub\SocketCommunication\SocketServer\obj\Debug\net5.0\SocketServer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\Desktop\git hub\SocketCommunication\SocketServer\obj\Debug\net5.0\SocketServer.AssemblyInfoInputs.cache
+C:\Users\Dell\Desktop\git hub\SocketCommunication\SocketServer\obj\Debug\net5.0\SocketServer.AssemblyInfo.cs
+C:\Users\Dell\Desktop\git hub\SocketCommunication\SocketServer\obj\Debug\net5.0\SocketServer.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Desktop\git hub\SocketCommunication\SocketServer\obj\Debug\net5.0\SocketServer.dll
+C:\Users\Dell\Desktop\git hub\SocketCommunication\SocketServer\obj\Debug\net5.0\ref\SocketServer.dll
+C:\Users\Dell\Desktop\git hub\SocketCommunication\SocketServer\obj\Debug\net5.0\SocketServer.pdb
+C:\Users\Dell\Desktop\git hub\SocketCommunication\SocketServer\obj\Debug\net5.0\SocketServer.genruntimeconfig.cache
