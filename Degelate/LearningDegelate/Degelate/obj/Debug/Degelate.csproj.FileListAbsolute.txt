@@ -1,0 +1,7 @@
+C:\Users\Dell\Desktop\git hub\Degelate\LearningDegelate\Degelate\obj\Debug\Degelate.csprojAssemblyReference.cache
+C:\Users\Dell\Desktop\git hub\Degelate\LearningDegelate\Degelate\obj\Debug\Degelate.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Desktop\git hub\Degelate\LearningDegelate\Degelate\bin\Debug\Degelate.exe.config
+C:\Users\Dell\Desktop\git hub\Degelate\LearningDegelate\Degelate\bin\Debug\Degelate.exe
+C:\Users\Dell\Desktop\git hub\Degelate\LearningDegelate\Degelate\bin\Debug\Degelate.pdb
+C:\Users\Dell\Desktop\git hub\Degelate\LearningDegelate\Degelate\obj\Debug\Degelate.exe
+C:\Users\Dell\Desktop\git hub\Degelate\LearningDegelate\Degelate\obj\Debug\Degelate.pdb
