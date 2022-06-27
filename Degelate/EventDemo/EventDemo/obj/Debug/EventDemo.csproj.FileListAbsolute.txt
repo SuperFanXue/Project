@@ -1,0 +1,7 @@
+C:\Users\Dell\Desktop\git hub\Degelate\EventDemo\EventDemo\obj\Debug\EventDemo.csprojAssemblyReference.cache
+C:\Users\Dell\Desktop\git hub\Degelate\EventDemo\EventDemo\obj\Debug\EventDemo.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Desktop\git hub\Degelate\EventDemo\EventDemo\bin\Debug\EventDemo.exe.config
+C:\Users\Dell\Desktop\git hub\Degelate\EventDemo\EventDemo\bin\Debug\EventDemo.exe
+C:\Users\Dell\Desktop\git hub\Degelate\EventDemo\EventDemo\bin\Debug\EventDemo.pdb
+C:\Users\Dell\Desktop\git hub\Degelate\EventDemo\EventDemo\obj\Debug\EventDemo.exe
+C:\Users\Dell\Desktop\git hub\Degelate\EventDemo\EventDemo\obj\Debug\EventDemo.pdb
