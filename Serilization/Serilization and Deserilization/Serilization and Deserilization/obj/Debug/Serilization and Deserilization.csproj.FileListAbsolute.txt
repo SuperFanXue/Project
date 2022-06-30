@@ -1,0 +1,7 @@
+C:\Users\Dell\Desktop\git hub\Serilization\Serilization and Deserilization\Serilization and Deserilization\obj\Debug\Serilization and Deserilization.csprojAssemblyReference.cache
+C:\Users\Dell\Desktop\git hub\Serilization\Serilization and Deserilization\Serilization and Deserilization\obj\Debug\Serilization and Deserilization.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Desktop\git hub\Serilization\Serilization and Deserilization\Serilization and Deserilization\bin\Debug\Serilization and Deserilization.exe.config
+C:\Users\Dell\Desktop\git hub\Serilization\Serilization and Deserilization\Serilization and Deserilization\bin\Debug\Serilization and Deserilization.exe
+C:\Users\Dell\Desktop\git hub\Serilization\Serilization and Deserilization\Serilization and Deserilization\bin\Debug\Serilization and Deserilization.pdb
+C:\Users\Dell\Desktop\git hub\Serilization\Serilization and Deserilization\Serilization and Deserilization\obj\Debug\Serilization and Deserilization.exe
+C:\Users\Dell\Desktop\git hub\Serilization\Serilization and Deserilization\Serilization and Deserilization\obj\Debug\Serilization and Deserilization.pdb
